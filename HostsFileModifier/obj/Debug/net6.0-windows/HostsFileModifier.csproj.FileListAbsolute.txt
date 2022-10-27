@@ -1,0 +1,17 @@
+D:\Projects\VisualStudio\HostsFileModifier\HostsFileModifier\bin\Debug\net6.0-windows\HostsFileModifier.exe
+D:\Projects\VisualStudio\HostsFileModifier\HostsFileModifier\bin\Debug\net6.0-windows\HostsFileModifier.deps.json
+D:\Projects\VisualStudio\HostsFileModifier\HostsFileModifier\bin\Debug\net6.0-windows\HostsFileModifier.runtimeconfig.json
+D:\Projects\VisualStudio\HostsFileModifier\HostsFileModifier\bin\Debug\net6.0-windows\HostsFileModifier.dll
+D:\Projects\VisualStudio\HostsFileModifier\HostsFileModifier\bin\Debug\net6.0-windows\HostsFileModifier.pdb
+D:\Projects\VisualStudio\HostsFileModifier\HostsFileModifier\obj\Debug\net6.0-windows\HostsFileModifier.csproj.AssemblyReference.cache
+D:\Projects\VisualStudio\HostsFileModifier\HostsFileModifier\obj\Debug\net6.0-windows\HostsFileModifier.HostsFileForm.resources
+D:\Projects\VisualStudio\HostsFileModifier\HostsFileModifier\obj\Debug\net6.0-windows\HostsFileModifier.csproj.GenerateResource.cache
+D:\Projects\VisualStudio\HostsFileModifier\HostsFileModifier\obj\Debug\net6.0-windows\HostsFileModifier.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VisualStudio\HostsFileModifier\HostsFileModifier\obj\Debug\net6.0-windows\HostsFileModifier.AssemblyInfoInputs.cache
+D:\Projects\VisualStudio\HostsFileModifier\HostsFileModifier\obj\Debug\net6.0-windows\HostsFileModifier.AssemblyInfo.cs
+D:\Projects\VisualStudio\HostsFileModifier\HostsFileModifier\obj\Debug\net6.0-windows\HostsFileModifier.csproj.CoreCompileInputs.cache
+D:\Projects\VisualStudio\HostsFileModifier\HostsFileModifier\obj\Debug\net6.0-windows\HostsFileModifier.dll
+D:\Projects\VisualStudio\HostsFileModifier\HostsFileModifier\obj\Debug\net6.0-windows\refint\HostsFileModifier.dll
+D:\Projects\VisualStudio\HostsFileModifier\HostsFileModifier\obj\Debug\net6.0-windows\HostsFileModifier.pdb
+D:\Projects\VisualStudio\HostsFileModifier\HostsFileModifier\obj\Debug\net6.0-windows\HostsFileModifier.genruntimeconfig.cache
+D:\Projects\VisualStudio\HostsFileModifier\HostsFileModifier\obj\Debug\net6.0-windows\ref\HostsFileModifier.dll
